@@ -1,0 +1,22 @@
+{
+  "name": "gitlesson",
+  "version": "1.0.0",
+  "description": "lesson about git",
+  "main": "inde.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fainir/gitlesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fainir/gitlesson/issues"
+  },
+  "homepage": "https://github.com/fainir/gitlesson#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
