@@ -1,2 +1,2 @@
 # gitlesson
-git lesson
+This project is for showing how to use git
